@@ -4,7 +4,7 @@
 
 ## Steps i followed:
 
-1.I created a Github account using email and username. 2. I connected my github account on vs code,then i enter these commands on vs code to verify that my github account is signed properly ("git config --get user.name, git config --get user.email").
+(i).I created a Github account using email and username. (ii). I connected my github account on vs code,then i enter these commands on vs code to verify that my github account is signed properly ("git config --get user.name, git config --get user.email").
 I created an empty repository on Github.
 I cloned the repository.
 I created README.md file
